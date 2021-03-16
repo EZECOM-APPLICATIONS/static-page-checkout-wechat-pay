@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.389" height="19.298" viewBox="0 0 27.389 19.298">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#6f4b99;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.3px}
+        </style>
+    </defs>
+    <g id="Group_45" transform="translate(-1242.282 -239.483)">
+        <path id="Path_35" d="M1248.288 258.131h-2.356a3 3 0 0 1-3-3v-12a3 3 0 0 1 3-3h20.089a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3h-12.365" class="cls-1"/>
+        <path id="Rectangle_31" fill="#6f4b95" d="M0 0H26.089V3.634H0z" transform="translate(1242.932 244.261)"/>
+        <path id="Line_7" d="M0 0L6.473 0" class="cls-1" transform="translate(1257.445 253.505)"/>
+    </g>
+</svg>

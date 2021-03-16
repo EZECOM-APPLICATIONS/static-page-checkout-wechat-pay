@@ -1,0 +1,56 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url("images/or-bg.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.wel {
+    background-color: #ffffff;
+    border-radius: 13px;
+}
+
+.visa-card-logo, .rolling-shop-transaction, .paybill-total-amount, .question-mark {
+    margin: 8.8px 17.3px 13.6px 0px;
+    width: 48px;
+}
+
+.alipay-qr {
+    padding: 45px 0px 12px 20px;
+}
+
+ul > li {
+    margin-left: 170px;
+    list-style-type: none;
+}
+
+ol > li {
+    margin-left: 85px;
+}
+
+.trans-container {
+    background-color: #f2edf9;
+    padding: 29px 23px 116px 19px;
+    margin: 17px;
+}
+
+.none-ol {
+    list-style-type: none;
+}
+
+.transaction-info, .total-amount {
+    margin-left: 60px;
+}
+
+.ezecom-color {
+    color: #6f4b95;
+}
+
+.logo-container img {
+    width: 250px;
+}
+
+.header {
+    padding: 40px 0;
+}
