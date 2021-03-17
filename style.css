@@ -16,7 +16,7 @@ body {
     width: 48px;
 }
 
-.alipay-qr {
+.wechat-qr {
     padding: 45px 0px 12px 20px;
 }
 
@@ -53,4 +53,20 @@ ol > li {
 
 .header {
     padding: 40px 0;
+}
+
+
+@media only screen and (max-width: 991px){
+    .wechat-qr{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .summary-info{
+        display: contents;
+    }
+
+    .trans-container{
+        padding: 15px 221px 0px 19px;
+        margin: 19px 0px 28px 47px;
+    }
 }
