@@ -26,7 +26,7 @@ ul > li {
 }
 
 ol > li {
-    margin-left: 85px;
+    margin-left: 68px;
 }
 
 .trans-container {
@@ -68,5 +68,12 @@ ol > li {
     .trans-container{
         padding: 15px 221px 0px 19px;
         margin: 19px 0px 28px 47px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .trans-container{
+        padding: 20px 60px 0px 18px;
+        margin: 10px 35px 28px 35px;
     }
 }
